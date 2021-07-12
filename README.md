@@ -1,5 +1,5 @@
 # Go Chase the Ball
-
+It is a part of **Udacity Robotics Software Enigneer Nano Degree** program.A mobile robot capable of following a movable white ball, using image processing is built. Visualization available on Rviz and Gazebo.
 ## Package Structure
 ![tree](https://user-images.githubusercontent.com/67613439/125200822-1cb63700-e28a-11eb-87f5-3bdea279eeed.png)
 
@@ -15,7 +15,7 @@ To launch the world project
 
 ```
 roslaunch my_robot world.launch 
-```
+```A 
 
 ### Chasing the ball
 
