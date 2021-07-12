@@ -1,6 +1,6 @@
 # Go Chase the Ball
 
-## Package Tree Structure
+## Package Structure
 ![tree](https://user-images.githubusercontent.com/67613439/125200822-1cb63700-e28a-11eb-87f5-3bdea279eeed.png)
 
 ## Result
