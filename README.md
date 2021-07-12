@@ -15,11 +15,9 @@ To launch the world project
 
 ```
 roslaunch my_robot world.launch 
-```A 
+```
 
 ### Chasing the ball
-
-
 
 launching the chaser 
 
